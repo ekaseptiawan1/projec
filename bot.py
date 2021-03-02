@@ -8,7 +8,7 @@ Timer = 120 #(120 seconds)
 link = https://www.youtube.com/watch?v=KC-4H23ztHg
 
 #number of views
-views = 5
+views = 100
 
 driver = webdriver.Chrome()
 driver.get(link)
